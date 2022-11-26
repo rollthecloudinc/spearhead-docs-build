@@ -1,0 +1,81 @@
+{
+	"contexts": [],
+	"displayType": "page",
+	"entityPermissions": {
+		"deleteUserIds": [],
+		"readUserIds": [
+			"*"
+		],
+		"writeUserIds": []
+	},
+	"gridItems": [],
+	"id": "72c3231a-5ec1-4fec-99c1-78bff619fb6f",
+	"interactions": {
+		"interactions": {
+			"listeners": []
+		}
+	},
+	"layoutSetting": {
+		"settings": []
+	},
+	"layoutType": "gridless",
+	"name": "test",
+	"panels": [
+		{
+			"columnSetting": {
+				"settings": []
+			},
+			"panes": [
+				{
+					"contentPlugin": "snippet",
+					"contexts": [],
+					"label": "",
+					"locked": false,
+					"name": "",
+					"settings": [
+						{
+							"attributes": [],
+							"computedValue": "text/html",
+							"displayName": "Content Type",
+							"name": "contentType",
+							"type": 1,
+							"value": "text/html"
+						},
+						{
+							"attributes": [],
+							"computedValue": "Test",
+							"displayName": "Content",
+							"name": "content",
+							"type": 1,
+							"value": "Test"
+						},
+						{
+							"attributes": [],
+							"computedValue": null,
+							"displayName": "jsScript",
+							"name": "jsScript",
+							"type": 1,
+							"value": null
+						}
+					]
+				}
+			],
+			"settings": [],
+			"stylePlugin": ""
+		}
+	],
+	"path": "/test",
+	"persistence": {
+		"dataduct": {
+			"settings": []
+		}
+	},
+	"rowSettings": [
+		{
+			"settings": []
+		}
+	],
+	"site": "spearhead-docs",
+	"title": "test",
+	"userId": "b7a9bac5-5fef-4aa6-bf12-d536c156e453"
+}
